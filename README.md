@@ -15,5 +15,6 @@ Existem apenas 2 competidores
 5. Ao final de 4 rodadas, o competidor que tiver mais pontos ganha
 
 O trabalho consiste na construção de dois programas separados:
-*Gerador de Cartas
-*Jogo
+
+* Gerador de Cartas
+* Jogo
