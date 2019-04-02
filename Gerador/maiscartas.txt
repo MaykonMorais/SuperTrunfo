@@ -1,0 +1,14 @@
+Time-Wizard 500 400 1000 2
+Mystical-Elf 800 2000 1800 4
+Baby-Dragon 1200 700 1300 3
+Celtic-Guardian 1400 1200 1200 4
+Kuriboh 300 200 3000 1
+Dark-Magician 2500 2100 2100 7
+Blue-Eyes-White-Dragon 3000 2500 2500 8
+Jinzo 2400 1500 1000 6
+Summoned-Skull 2500 1200 1200 4
+Ryu-Ran 2200 2600 1000 7
+Winged-Dragon 1400 1200 1000 4
+Ciber-Jar 900 900 2500 3
+Gemini-Elf 1900 900 1800 4
+Buster-Blade 2600 2300 1500 7
